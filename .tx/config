@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[cryptotarget.tx]
+file_filter = src/qt/locale/cryptotarget_<lang>.ts
+source_file = src/qt/locale/cryptotarget_en.ts
+source_lang = en

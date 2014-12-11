@@ -1,0 +1,6 @@
+usr/local/bin/cryptotarget-qt usr/bin
+share/pixmaps/cryptotarget32.xpm usr/share/pixmaps
+share/pixmaps/cryptotarget16.xpm usr/share/pixmaps
+share/pixmaps/cryptotarget128.png usr/share/pixmaps
+debian/cryptotarget-qt.desktop usr/share/applications
+debian/cryptotarget-qt.protocol usr/share/kde4/services/
