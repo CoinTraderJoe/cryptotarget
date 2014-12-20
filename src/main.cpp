@@ -1226,7 +1226,7 @@ int64_t GetBlockValue(int nHeight, int64_t nFees)
     int halvings = nHeight / Params().SubsidyHalvingInterval();
 
     // Force block reward to zero when right shift is undefined.
-    if (halvings >= 64)
+    if (halvings >= 25000000)
         return nFees;
 
     return nSubsidy + nFees;
