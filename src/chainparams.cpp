@@ -66,7 +66,7 @@ public:
         assert(hashGenesisBlock == uint256("0x000000007c4aef6ef6cfa1224a958e0314bc52804b6ede414456dddb527f4fa2"));
         assert(genesis.hashMerkleRoot == uint256("0x8c271475dad518d7b0969cacbcd4db8fef41126ebe40d0ba2d66d5f1571383fa"));
 
-        vSeeds.push_back(CDNSSeedData("cryptotarget.com", "main.cryptotarget.com"));
+        vSeeds.push_back(CDNSSeedData("cryptotarget.com", "cryptotarget.com"));
 
         base58Prefixes[PUBKEY_ADDRESS] = list_of(0);
         base58Prefixes[SCRIPT_ADDRESS] = list_of(5);
@@ -129,7 +129,7 @@ public:
 
         vFixedSeeds.clear();
         vSeeds.clear();
-        vSeeds.push_back(CDNSSeedData("cryptotarget.com", "testnet.cryptotarget.com"));
+        vSeeds.push_back(CDNSSeedData("cryptotarget.com", "cryptotarget.com"));
 
         base58Prefixes[PUBKEY_ADDRESS] = list_of(111);
         base58Prefixes[SCRIPT_ADDRESS] = list_of(196);
