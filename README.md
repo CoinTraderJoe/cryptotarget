@@ -21,32 +21,31 @@ Cryptotarget Information
 -------
 
 Cryptotarget Core is based on the Bitcoin Core source. 
-Cryptotarget aims to act as a cryptocurrency to assist in trading between alt-coins in a fast and efficient manner. 
+Cryptotarget aims to provide extremely fast transaction processing and stable pricing as a cryptocurrency.
 
-With its large coin supply to dilute the value of each coin so that flunctuations are unlikely, and with its block time and block size, 
-Cryptotarget is ideal for traders to trade alt-coins between exchanges with a consistent price and ability to arbitrage easily for more profit gains.
+Algorithm: SHA-256 
 
-Algorithm: SHA-256 * 
+Coin unit: CRT 
 
-Coin unit: CRT * 
+Coin maturity: 2000 blocks  
 
-Coin maturity: 2000 blocks * 
+Transaction confirmation: 6 blocks 
 
-Transaction confirmation: 6 blocks * 
+Block time: 10 seconds 
 
-Block time: 10 seconds * 
+Total coin supply: 100 Quadrillion Coins (100,000,000,000,000,000 CRT) 
 
-Total coin supply: 100 Quadrillion Coins (100,000,000,000,000,000 CRT) * 
+Developer coin reward: 300 Trillion Coins (300,000,000,000,000 CRT) (0.3% of total coin supply) 
 
-Developer coin reward: 300 Trillion Coins (300,000,000,000,000 CRT) (0.3% of total coin supply) * 
+Block reward: 4 Billion Coins (4,000,000,000 CRT) plus block height bonus 
 
-Block reward: 4 Billion Coins (4,000,000,000 CRT) plus block height bonus * 
+Block halving: None 
 
-Block halving: None * 
+Maximum block size: 2MB 
 
-Maximum block size: 2MB * 
+-------
 
-No decimal places are in this coin due to the nature of the coin supply size. * 
+No decimal places are in this coin due to the nature of the coin supply size. 
 
 
 License
