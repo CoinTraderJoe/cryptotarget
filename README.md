@@ -3,7 +3,7 @@ Cryptotarget Core integration/staging tree
 
 http://www.cryptotarget.com
 
-Copyright (c) 2014 Cryptotarget Core Developers
+Copyright (c) 2015 Cryptotarget Core Developers
 
 What is Cryptotarget?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. Cryptotarget Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Cryptotarget Core software, see http://www.cryptotarget.com/download.
+the Cryptotarget Core software, see http://www.cryptotarget.com/.
 
 Cryptotarget Information
 -------
@@ -41,7 +41,7 @@ Block reward: 4 Billion Coins (4,000,000,000 CRT) plus block height bonus
 
 Block halving: None 
 
-Maximum block size: 2MB 
+Maximum block size: 3MB (Default maximum is currently set to 2MB.)
 
 -------
 
