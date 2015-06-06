@@ -23,6 +23,10 @@ Cryptotarget Information
 Cryptotarget Core is based on the Bitcoin Core source. 
 Cryptotarget aims to provide extremely fast transaction processing and stable pricing as a cryptocurrency.
 
+
+No decimal places are in this coin due to the nature of the coin supply size. 
+
+
 Algorithm: SHA-256 
 
 Coin unit: CRT 
@@ -43,11 +47,9 @@ Block halving: None
 
 Maximum block size: 3MB (Default maximum is currently set to 2MB.)
 
+Minimum transaction / fee size: 100 CRT
+
 -------
-
-No decimal places are in this coin due to the nature of the coin supply size. 
-
-
 License
 -------
 
