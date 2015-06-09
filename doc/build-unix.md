@@ -62,7 +62,7 @@ for Ubuntu 12.04 and later:
  db4.8 packages are available [here](https://launchpad.net/~cryptotarget/+archive/cryptotarget).
  You can add the repository using the following command:
 
-        sudo add-apt-repository ppa:cryptotarget/cryptotarget
+        sudo add-apt-repository ppa:bitcoin/bitcoin
         sudo apt-get update
 
  Ubuntu 12.04 and later have packages for libdb5.1-dev and libdb5.1++-dev,
