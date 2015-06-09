@@ -2,6 +2,23 @@ UNIX BUILD NOTES
 ====================
 Some notes on how to build Cryptotarget in Unix. 
 
+Ultra Quick Start On Ubuntu 14
+--------------------
+
+Run the following commands:
+
+sudo add-apt-repository ppa:bitcoin/bitcoin
+sudo apt-get update
+sudo apt-get install git build-essential autotools-dev autoconf pkg-config libssl-dev libboost-all-dev libdb4.8-dev libdb4.8++-dev
+sudo apt-get install libminiupnpc-dev
+git clone https://github.com/SohaibBismal/cryptotarget.git
+cd cryptotarget
+./autogen.sh
+./configure
+make
+
+
+
 To Build
 ---------------------
 
